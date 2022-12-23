@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @andreasoe99
+- 👀 I’m interested in the financial market and generel macroeconomic
+- 🌱 I’m currently learning R programming, while I study cand. oecon
+- 📫 How to reach me: https://www.linkedin.com/in/andreas-%C3%B8stergaard-07a280158/
